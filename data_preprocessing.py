@@ -1,4 +1,8 @@
-import pandas as pd 
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.compose import ColumnTransformer
+
 # Function to preprocess the ecological health dataset
 def preprocess_ecological_dataset(filepath="ecological_health_dataset.csv"):
     """
