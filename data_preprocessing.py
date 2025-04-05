@@ -1,4 +1,4 @@
-
+import pandas as pd 
 # Function to preprocess the ecological health dataset
 def preprocess_ecological_dataset(filepath="ecological_health_dataset.csv"):
     """
