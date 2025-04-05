@@ -46,7 +46,7 @@ This dataset can be utilized for various applications, including:
 
 ## Data Preprocessing
 
-Our code in `preprocessing.py` handles all necessary preprocessing steps:
+Our code in `data_preprocessing.py` handles all necessary preprocessing steps:
 - Standardization of numerical features
 - One-hot encoding of categorical variables (Pollution_Level, Ecological_Health_Label)
 - Missing value imputation if needed
