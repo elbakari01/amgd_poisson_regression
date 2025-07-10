@@ -1,0 +1,5 @@
+Algorithm,MAE,RMSE,MPD,Sparsity (%)
+AMGD,3.03,3.91,2.23,29.29
+Adam,3.12,4.03,2.29,11.76
+AdaGrad,6.74,7.47,10.5,5.0
+GLMNet,8.98,9.54,29.39,52.93

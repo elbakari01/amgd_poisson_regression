@@ -1,0 +1,5 @@
+Algorithm,Optimal Configuration,MAE,RMSE,MPD,Runtime (s)
+AMGD,"Elastic Net, λ=0.01",2.985,3.873,2.188,0.002
+Adam,"Elastic Net, λ=0.1",3.081,3.983,2.225,0.004
+AdaGrad,"Elastic Net, λ=10.0",6.862,7.579,10.965,0.745
+GLMNet,"Lasso, λ=0.01",9.007,9.551,28.848,0.008
